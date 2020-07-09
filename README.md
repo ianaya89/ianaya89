@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🇦🇷 Nacho Anaya
 
-<!--
-**ianaya89/ianaya89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full Stack Developer, Tech Trainer & Speaker. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Full Stack Developer, Tech Trainer and Speaker. I have been working, teaching and spreading JavaScript technologies for more than 10 years.
+I am mostly working with JavaScript, Vue.js, Node.js but I like to contribute to any kind of dev community or OSS project. I love coding, teaching and field hockey. When I am not working or traveling, you can find me playing hockey in Buenos Aires. 💻🏑⚽️🧡
+
+
+🎈Principal Engineer [@BalloonPlatform](https://getballoon.com/)
+🗣Member of [@mozTechSpeakers](https://twitter.com/moztechspeakers)
+👨‍🚀 Ambassador of [@Auth0Ambassador](https://auth0.com/ambassador-program)
+🖖Organizer of [@vuenos_aires](http://vuenosair.es/)
+📺Streamer of [VueVear](https://www.twitch.tv/ianaya89)
+
+
+> 📫 Reach me at [@ianaya89](https://twitter.com/ianaya89)
