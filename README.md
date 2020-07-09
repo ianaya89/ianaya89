@@ -14,4 +14,7 @@ I am mostly working with JavaScript, Vue.js, Node.js but I like to contribute to
 - 📺Streamer of [VueVear](https://www.twitch.tv/ianaya89)
 
 
-> 📫 Reach me at [@ianaya89](https://twitter.com/ianaya89)
+> 📫 Reach me at [@ianaya89](https://twitter.com/ianaya89) 
+
+
+### [Hire me 🚀](https://ianaya89.dev)
