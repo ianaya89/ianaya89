@@ -1,4 +1,4 @@
-![Nacho Anaya Cover][https://pbs.twimg.com/profile_banners/141316682/1612098019/1500x500]
+![Nacho Anaya Cover](https://pbs.twimg.com/profile_banners/141316682/1612098019/1500x500)
 
 
 I am Full Stack Developer, Tech Trainer and Speaker. I have been working, teaching and spreading JavaScript technologies for more than 10 years.
