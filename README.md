@@ -1,15 +1,10 @@
 ![Nacho Anaya Cover](https://pbs.twimg.com/profile_banners/141316682/1612098019/1500x500)
 
 
-I am Full Stack Developer, Tech Trainer and Speaker. I have been working, teaching and spreading JavaScript technologies for more than 10 years.
-I am mostly working with JavaScript, Vue.js, Node.js but I like to contribute to any kind of dev community or OSS project. I love coding, teaching and field hockey. When I am not working or traveling, you can find me playing hockey in Buenos Aires. 💻🏑⚽️🧡
+> I build stuff with code. From frontend interfaces to cloud infrastructure, I enjoy solving problems and helping teams ship better software.
 
-
-- 🦝 Cloud Engineer [@Altinity](https://altinity.com)
-- 🗣 Member of [@mozTechSpeakers](https://twitter.com/moztechspeakers)
-- 👨‍🚀 Ambassador of [@Auth0Ambassador](https://auth0.com/ambassador-program)
-- 📺 Streamer of [VueVear](https://www.twitch.tv/ianaya89)
-
+I'm a senior software engineer with a passion for building scalable web applications and cloud infrastructure. Beyond writing code, I enjoy sharing knowledge through speaking at developer conferences, creating educational content, and mentoring teams to deliver better software.
+I believe in pragmatic solutions over perfect code. Good software is maintainable, well-tested, and solves real problems. My approach combines technical expertise with a startup mindset, focusing on products that make a meaningful impact.
 
 > 📫 Reach me at [@ianaya89](https://twitter.com/ianaya89) 
 
